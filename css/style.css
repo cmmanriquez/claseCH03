@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.color-rosa{
+    color: pink;
+}
+/*comentario*/
+main h1{
+    color: red;
+}
+#pie{
+    background-color: red;
+    opacity: 0.4;
+}
+.letraGrande{
+    font-size: 30px;
+}
+a{
+   text-decoration: none; 
+}
+.negrita{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 800;
+}
+.para-roboto{
+    font-family: 'Roboto', sans-serif;
+}
+.parrafoUno{
+    text-align: justify;
+}
+.parrafo-bi{
+    background-image: url("https://mdn.mozillademos.org/files/6457/mdn_logo_only_color.png");
+    background-size: cover;
+}
